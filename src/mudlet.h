@@ -27,7 +27,6 @@
 #include <QCloseEvent>
 //#include "ui_console.h"
 #include "TConsole.h"
-#include "mudlet.h"
 #include "ctelnet.h"
 #include "HostManager.h"
 #include <map>
