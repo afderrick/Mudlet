@@ -162,7 +162,7 @@
           <item>
            <widget class="QCheckBox" name="acceptServerGUI">
             <property name="text">
-             <string>Allow server to install scrpt packages</string>
+             <string>Allow server to install script packages</string>
             </property>
            </widget>
           </item>
@@ -727,7 +727,7 @@ from getting appended to the previous prompt line</string>
           <item>
            <widget class="QCheckBox" name="checkBox_USE_SMALL_SCREEN">
             <property name="toolTip">
-             <string>Select this option for better compatability if you are using a netbook, 
+             <string>Select this option for better compatability if you are using a netbook,
 or some other computer model that has a small screen.</string>
             </property>
             <property name="text">
