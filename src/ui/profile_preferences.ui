@@ -727,8 +727,7 @@ from getting appended to the previous prompt line</string>
           <item>
            <widget class="QCheckBox" name="checkBox_USE_SMALL_SCREEN">
             <property name="toolTip">
-             <string>Select this option for better compatability if you are using a netbook,
-or some other computer model that has a small screen.</string>
+             <string>Select this option for better compatability if you are using a netbook, or some other computer model that has a small screen.</string>
             </property>
             <property name="text">
              <string>Use Mudlet on a netbook with a small screen</string>
